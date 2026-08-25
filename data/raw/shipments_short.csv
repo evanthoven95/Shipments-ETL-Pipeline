@@ -1,0 +1,11 @@
+shipment_id,origin,destination,weight_kg,status,date,carrier
+1001,Monterrey,CDMX,12.5,delivered,2024-03-01,FedEx
+1002,Guadalajara,Monterrey,,in_transit,2024-03-02,DHL
+1003,monterrey,CDMX,8.0,delivered,2024-03-02,FedEx
+1004,CDMX,Tijuana,200.0,failed,2024-03-03,Estafeta
+1005,Monterrey,Guadalajara,5.5,delivered,2024-03-03,DHL
+1006,Guadalajara,CDMX,9.0,delivered,2024-03-04,FedEx
+1007,Monterrey,CDMX,null,in_transit,2024-03-04,DHL
+1008,CDMX,Monterrey,15.0,failed,2024-03-05,Estafeta
+1009,monterrey,Tijuana,3.0,delivered,2024-03-05,FedEx
+1010,Guadalajara,CDMX,7.5,delivered,2024-03-06,DHL
